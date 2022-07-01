@@ -44,7 +44,7 @@ html {
     }
     
     .stick {
-        background: #fff;
+        background: rgb(233, 232, 221);
         position: sticky;
         position: -webkit-sticky;
         top: 0;
