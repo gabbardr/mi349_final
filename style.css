@@ -3,7 +3,7 @@ html {
     }
     
     body {
-      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       margin: 60px;
       padding: 60px;
       color: #242424;
@@ -31,11 +31,6 @@ html {
       border-bottom: 1px solid #ccc;
     }
     
-    #sub {
-      background-color: #e2f2e4;
-      color: black;
-    }
-    
     a[target] {
       f: rgb(208, 208, 208);
     }
@@ -57,7 +52,7 @@ html {
     
     
     img {
-        width: 350px;
+        width: 400px;
         height: 350px;
         margin-right: 5px;
     }
