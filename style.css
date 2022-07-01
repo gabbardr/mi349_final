@@ -1,16 +1,16 @@
 html {
-    background: #71ed6a;
+    background: #65ae61;
     }
     
     body {
       font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
       margin: 40px;
       padding: 40px;
-      color: #555454;
-      border-top: 5px solid #555454;
-      border-left: 5px solid #555454;
-      border-right: 5px solid #555454;
-      border-bottom: 5px solid #555454;
+      color: #242424;
+      border-top: 5px solid #242424;
+      border-left: 5px solid #242424;
+      border-right: 5px solid #242424;
+      border-bottom: 5px solid #242424;
       background: #fff;
     }
     
